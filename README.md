@@ -8,6 +8,12 @@ The dataset contains 64 values of each features, thus the dataset is made of 3 v
 
 For the interested reader, the description of the dataset can be found here https://www.kaggle.com/c/leaf-classification.
 
-The present work test several models and optimize them.
-The visualization of the results allows to determine the best performances and to select the most efficient model.
+<p align="center">
+  <img src="https://github.com/christelle-git/leaf-classification/blob/master/bigleaves.jpg">
+</p>
+
+
+ * The present work test several models and optimize them.
+ * The visualization of the results allows to determine the best performances and to select the most efficient model.
+
 
